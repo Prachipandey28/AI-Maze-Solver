@@ -1,3 +1,4 @@
+
  <div align="center">
 
 # 🧠 AI MAZE SOLVER
@@ -31,7 +32,7 @@ The goal is to understand how different search strategies make decisions, explor
 
 The visualization uses different colors to make the maze easy to understand.
 
-![AI Maze Solver BFS Screenshot](assets/maze-solver-bfs.png)
+<img width="1440" height="900" alt="Screenshot 2026-10-25 at 1 19 24 AM" src="https://github.com/user-attachments/assets/8b6e598f-a59b-4620-9463-2e0adeae17cc" />
 
 **Color Legend**
 
